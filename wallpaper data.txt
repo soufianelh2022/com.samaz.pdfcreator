@@ -1,7 +1,35 @@
 [
     {
-        "url": "https://is.zobj.net/image-server/v1/images?r=7LB1hpLFfP0nC5ZBYWDttcFwUg-WY6IQvNZI72mAlbix2AD82bPdHRgun-YOOr60BJlN53DLcupxzIrsqz8a_IA_JumIuwmS03c78BigUJuKi9OuCoJFQ67_0XPIcUjlfyrCqIcPg1zTocmflGlLZ_y8M-b7J3SR34KRct48StaWnWcQ8R1M1wA_vdWWZFuoaM1Uqp6wE0BudfxM8tKkCavEcUiVN9wN5et7VQ",
-        "title": "Photo 1"
+        "url": "https://storage.myseldon.com/news-pict-79/79C3F2215DFE88B97A28BD9D82AFCBF3",
+        "title": "Whispering Titan"
+    },
+ {
+        "url": "https://i.pinimg.com/originals/28/b8/a9/28b8a98ec601d9e66db519fd8506a3b5.jpg",
+        "title": "Celestial Voyager"
+    },
+ {
+        "url": "https://img.championat.com/s/1350x900/news/big/n/m/dzhejms-kemeron-porazhyon-shodstvom-propazhi-lyudej-v-batiskafe-titan-s-krusheniem-titanik_1687467637559120808.jpg",
+        "title": "Ebony Tempest"
+    },
+ {
+        "url": "https://pic.rutubelist.ru/video/e1/4c/e14c46ba4e287fc90006a59aa1d4865a.jpg",
+        "title": "Serenity's Edge"
+    },
+ {
+        "url": "https://i.pinimg.com/originals/a3/ba/e2/a3bae2ab477108a08923c048a22927d2.jpg",
+        "title": "Mystic Horizon"
+    },
+ {
+        "url": "https://img3.aksam.com.tr/imgsdisk/2022/01/24/t25_110-yil-sonra-ortaya-cikt-333.jpg",
+        "title": "Crimson Phantom"
+    },
+ {
+        "url": "https://static1.tgcnt.ru/posts/_0/c1/c1c3c6fb9b03911625844219b022a9bb.jpg",
+        "title": "Twilight Vanguard"
+    },
+ {
+        "url": "https://quizizz.com/_media/quizzes/4e02121d-430b-4ad0-bf18-62a67b9e3fbd_900_900",
+        "title": "Solaris Sentinel"
     },
     {
         "url": "https://farm2.staticflickr.com/1533/26541536141_41abe98db3_z_d.jpg",
