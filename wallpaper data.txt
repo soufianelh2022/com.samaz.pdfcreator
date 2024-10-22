@@ -24,7 +24,7 @@
         "title": "Crimson Phantom"
     },
  {
-        "url": "https://static1.tgcnt.ru/posts/_0/c1/c1c3c6fb9b03911625844219b022a9bb.jpg",
+        "url": "https://i.ytimg.com/vi/MIB_G6n-71M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFcgTyhlMA8=&rs=AOn4CLB7xhiaVG0NiDFweUNZJd3C_K_S6Q",
         "title": "Twilight Vanguard"
     },
  {
