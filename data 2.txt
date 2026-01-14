@@ -4,12 +4,12 @@
         "ClickCount": 1,
         "IronAppKey": "147d445d9",
         "IronBanner": "DefaultBanner",
-        "admob_open": "ca-app-pub-5318077592177136/1816774502",
-        "admob_inter": "ca-app-pub-5318077592177136/6621291859",
+        "admob_open": "ca-app-pub-5318077592177136/1065667983",
+        "admob_inter": "ca-app-pub-5318077592177136/2402800383",
         "PriorityOpen": "admob",
-        "admob_banner": "ca-app-pub-5318077592177136/7323736105",
-        "admob_native": "ca-app-pub-5318077592177136/7294949979",
-        "admob_reward": "ca-app-pub-5318077592177136/6010654436",
+        "admob_banner": "ca-app-pub-5318077592177136/3004423850",
+        "admob_native": "ca-app-pub-5318077592177136/9378260519",
+        "admob_reward": "ca-app-pub-5318077592177136/2378749652",
         "openadyandex": "demo-appopenad-yandex",
         "yandex_inter": "demo-interstitial-yandex",
         "yandex_banner": "demo-banner-yandex",
@@ -24,3 +24,4 @@
         "priorityInterstitial": "admob"
     }
 }
+
